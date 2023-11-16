@@ -30,7 +30,9 @@
 
 .container__imagem {
     padding: 1em;
+    height: 9vw;
 }
+
 
 .lista-menu {
     display: none;
@@ -120,4 +122,6 @@
         display: none;
     }
 }
+
+
 
